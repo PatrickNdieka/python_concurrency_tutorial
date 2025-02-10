@@ -1,0 +1,6 @@
+.vscode/
+backup/
+.env
+__pycache__/
+*.sql
+*.yaml
